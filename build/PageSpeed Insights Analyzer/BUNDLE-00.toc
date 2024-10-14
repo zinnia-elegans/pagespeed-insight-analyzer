@@ -1,0 +1,4 @@
+([('PageSpeed Insights Analyzer',
+   '/Users/shoheishimizu/Python/pagespeed-insight-analyzer/dist/PageSpeed '
+   'Insights Analyzer',
+   'EXECUTABLE')],)
